@@ -19,7 +19,7 @@ You may need a preprocessing step to rename some class names, since classes 'sit
 You can download the dataset from [here.](https://drive.google.com/file/d/1u5E6RsgTOw9jprkKBh3ECP2OCv6mesnE/view?usp=sharing)
 
 ## Reference
-If you use this dataset in your research please cite:
+If you use this dataset in your research, please cite:
 
 Koubâa, A., Ammar, A., Benjdira, B., Al-Hadid, A., Kawaf, B., Al-Yahri, S.A., Babiker, A., Assaf, K. and Ras, M.B., 2020, March. Activity Monitoring of Islamic Prayer (Salat) Postures using Deep Learning. In 2020 6th Conference on Data Science and Machine Learning Applications (CDMA) (pp. 106-111). IEEE.
 
