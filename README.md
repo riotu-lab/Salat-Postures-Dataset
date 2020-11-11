@@ -15,6 +15,9 @@ Total instances: 2156
 ## Warning
 You may need a preprocessing step to rename some class names, since classes 'sitting'/'julus', and 'sujud'/'Sujud' appear with two different names/spellings.
 
+## Download
+You can download the dataset from [here.](https://drive.google.com/file/d/1u5E6RsgTOw9jprkKBh3ECP2OCv6mesnE/view?usp=sharing)
+
 ## Reference
 If you use this dataset in your research please cite:
 
