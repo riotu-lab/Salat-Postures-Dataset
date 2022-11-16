@@ -19,13 +19,14 @@ You may need a preprocessing step to rename some class names, since classes 'sit
 
 <table>
   <tr>
-    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/SittingMO56.jpg" height=360></td>
-    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/IMG-20191019-WA0062.jpg" height=360></td>
+    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/SittingMO56.jpg" height=320></td>
+    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/IMG-20191019-WA0062.jpg" height=320></td>
   </tr>
   <tr>
+    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/ck35uvh7g7ebz07481zjpedss.jpeg" height=480</td>
     <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/ck2oqgwn04qu60757lizr6lif.jpeg" height=480</td>
-    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/ck35uvh7g7ebz07481zjpedss.jpeg" height=480></td>
-    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/sujud163.jpg" height=480></td>
+    
+<!--     <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/sujud163.jpg" height=480></td> -->
   </tr>
  </table>
 
