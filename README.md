@@ -16,7 +16,9 @@ Total instances: 2156
 You may need a preprocessing step to rename some class names, since classes 'sitting'/'julus', and 'sujud'/'Sujud' appear with two different names/spellings.
 
 ## Download
-You can download the dataset from [here.](https://drive.google.com/file/d/1u5E6RsgTOw9jprkKBh3ECP2OCv6mesnE/view?usp=sharing)
+[](https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/23.jpg))
+The folder [Sample-images-with-annotations](https://github.com/riotu-lab/Salat-Postures-Dataset/tree/main/Sample-images-with-annotations) contains a small sample of the images and XML annotations.
+You can download the whole dataset from [here.](https://drive.google.com/file/d/1u5E6RsgTOw9jprkKBh3ECP2OCv6mesnE/view?usp=sharing)
 
 ## Reference
 If you use this dataset in your research, please cite:
