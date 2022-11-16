@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a</folder>
+	<filename>23.jpg</filename>
+	<path>/Users/saleh/Desktop/sala/a/23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sitting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>412</ymin>
+			<xmax>1542</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+</annotation>

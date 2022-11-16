@@ -1,0 +1,26 @@
+<annotation>
+	<folder>videoplayback</folder>
+	<filename>SittingMo85.jpg</filename>
+	<path>/Users/mohandbaras/Desktop/videoplayback/SittingMo85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sitting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>59</ymin>
+			<xmax>409</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>

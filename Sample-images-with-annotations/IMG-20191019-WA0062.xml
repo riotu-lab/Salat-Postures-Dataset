@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drive-download-20191021T144359Z-001</folder>
+	<filename>IMG-20191019-WA0062.jpg</filename>
+	<path>/Users/saleh/Desktop/sala/drive-download-20191021T144359Z-001/IMG-20191019-WA0062.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sitting</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>270</ymin>
+			<xmax>892</xmax>
+			<ymax>986</ymax>
+		</bndbox>
+	</object>
+</annotation>
