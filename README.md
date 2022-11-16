@@ -19,8 +19,8 @@ You may need a preprocessing step to rename some class names, since classes 'sit
 
 <table>
   <tr>
-    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/SittingMO56.jpg" height=320></td>
-    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/IMG-20191019-WA0062.jpg" height=320></td>
+    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/SittingMO56.jpg" height=310></td>
+    <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/IMG-20191019-WA0062.jpg" height=310></td>
   </tr>
   <tr>
     <td><img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/ck35uvh7g7ebz07481zjpedss.jpeg" height=420</td>
