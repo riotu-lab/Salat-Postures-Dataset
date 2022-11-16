@@ -22,6 +22,7 @@ You can download the dataset from [here.](https://drive.google.com/file/d/1u5E6R
 If you use this dataset in your research, please cite:
 
 Koubâa, A., Ammar, A., Benjdira, B., Al-Hadid, A., Kawaf, B., Al-Yahri, S.A., Babiker, A., Assaf, K. and Ras, M.B., 2020, March. Activity Monitoring of Islamic Prayer (Salat) Postures using Deep Learning. In 2020 6th Conference on Data Science and Machine Learning Applications (CDMA) (pp. 106-111). IEEE.
+
 Available on [arxiv](https://arxiv.org/abs/1911.04102).
 
 
