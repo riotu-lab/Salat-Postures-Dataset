@@ -18,6 +18,9 @@ You may need a preprocessing step to rename some class names, since classes 'sit
 ## Download
 <img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/SittingMO56.jpg" width="250">
 <img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/IMG-20191019-WA0062.jpg" width="250">
+<img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/ck2oqgwn04qu60757lizr6lif.jpeg" width="250">
+<img src="https://github.com/riotu-lab/Salat-Postures-Dataset/blob/main/Sample-images-with-annotations/sujud163.jpg" width="250">
+
 
 The folder [Sample-images-with-annotations](https://github.com/riotu-lab/Salat-Postures-Dataset/tree/main/Sample-images-with-annotations) contains a small sample of the images and XML annotations.
 You can download the whole dataset from [here.](https://drive.google.com/file/d/1u5E6RsgTOw9jprkKBh3ECP2OCv6mesnE/view?usp=sharing)
